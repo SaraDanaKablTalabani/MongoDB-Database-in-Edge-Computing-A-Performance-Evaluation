@@ -1,7 +1,7 @@
 # MongoDB-Database-in-Edge-Computing-A-Performance-Evaluation
-  This project is about benchmarking MongoDB database in edge computing setup in centralised and distributed deployments.
+  This project is about benchmarking MongoDB database in edge computing setup in single-node and nine-node cluster.
 
-  The study selects the Raspberry Pi (RPi) as an edge node because it constitutes a solid edge test device and has been widely used in literature in similar scenarios. Further, the study chooses the YCSB as a framework to benchmark MongoDB. It is regarded as one of the best frameworks to benchmark cloud systems due to its open-source, flexible, and extensible workloads. In addition, it loads the database with synthetic data that helps the developers gain standard benchmarking results.
+  The study selects the Raspberry Pi (RPi) as an edge node because it constitutes a solid edge test device. Further, the study chooses the YCSB as a framework to benchmark MongoDB. It is regarded as one of the best frameworks to benchmark cloud systems due to its open-source, flexible, and extensible workloads. In addition, it loads the database with synthetic data that helps the developers gain standard benchmarking results.
 
 The study aims to evaluate the performance of MongoDB in two different deployment setups of centralized and distributed environments using YCSB. The results help the developers to have a deeper insight into how MongoDB behaves with different applications in edge computing setup.
 
